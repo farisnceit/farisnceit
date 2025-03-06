@@ -9,6 +9,8 @@ I'm a **Lead Front-End Developer** with a passion for crafting seamless, engagin
 - 🛠️ Always exploring new tools, frameworks, and best practices to stay ahead in the ever-evolving tech landscape.
 - 📚 Lifelong learner, currently diving deep into **advanced React patterns** and **Progressive Web Apps (PWA)**.
 
+[![npm](https://img.shields.io/badge/npm-mohamedfariz-CB3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/~mohamedfariz)
+
 ---
 
 ## 🔧 Technologies & Tools
@@ -57,13 +59,13 @@ I'm a **Lead Front-End Developer** with a passion for crafting seamless, engagin
 
 ## 🌟 Featured Plugins
 
-### [React toggly]([https://github.com/farisnceit/plugin1](https://github.com/fariz-plugins/react-toggly))
+### [React Toggly](https://github.com/fariz-plugins/react-toggly)
 A highly customizable and themeable toggle switch component for React, built with TypeScript and styled-components. Supports multiple themes like iOS, Bootstrap, and Tailwind CSS, and allows for custom icons, accessibility features, and controlled/uncontrolled behavior.
 
-### [React Confirmy)]([https://github.com/farisnceit/plugin2](https://github.com/fariz-plugins/react-confirmy))
+### [React Confirmy](https://github.com/fariz-plugins/react-confirmy)
 A beautiful, customizable, and accessible confirmation dialog component for React applications with built-in support for Tailwind CSS and Bootstrap.
 
-### [smartAutoComplete.js)]([https://github.com/farisnceit/plugin3](https://github.com/fariz-plugins/smartAutoComplete.js))
+### [smartAutoComplete.js](https://github.com/fariz-plugins/smartAutoComplete.js)
 A powerful, lightweight vanilla JavaScript autocomplete plugin with advanced features like fuzzy search, async data loading, and custom rendering.
 
 
