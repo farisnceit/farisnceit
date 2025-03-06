@@ -1,4 +1,4 @@
-# Hi there, I'm Faris 👋
+# Hi there, I'm Fariz 👋
 
 I'm a **Lead Front-End Developer** with a passion for crafting seamless, engaging user experiences and building impactful, scalable projects. Welcome to my GitHub profile! Here, you'll find a collection of my work, experiments, and contributions to the tech community.
 
