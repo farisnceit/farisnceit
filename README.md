@@ -1,4 +1,4 @@
-# Hi there, I'm Fariz 👋
+<h1>Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> I'm Fariz</h1>
 
 I'm a **Lead Front-End Developer** with a passion for crafting seamless, engaging user experiences and building impactful, scalable projects. Welcome to my GitHub profile! Here, you'll find a collection of my work, experiments, and contributions to the tech community.
 
@@ -84,7 +84,7 @@ A powerful, lightweight vanilla JavaScript autocomplete plugin with advanced fea
 
 I'm always open to discussing new projects, collaborations, or just chatting about tech. Feel free to reach out!
 
-- 📧 **Email**: [faris@example.com](mailto:faris872010@gmail.com)
+- 📧 **Email**: [faris872010@gmail.com](mailto:faris872010@gmail.com)
 - 💼 **LinkedIn**: [Faris's LinkedIn](https://www.linkedin.com/in/mmohamedfariz)
 <!-- - 🐦 **Twitter**: [@farisnceit](https://twitter.com/farisnceit)
 - 🌐 **Portfolio**: [Faris's Portfolio](https://farisnceit.com)  -->
